@@ -55,10 +55,12 @@ Secret도 비슷하지만 민감한 정보에 대해 더 강력 서큐리티를 
 확장성, 로드 밸런싱, 버전 관리, 보안 등의 향상,
 하지만 config가 복잡하고 러닝 커브가 크다. 작은 어플엔 필요 없음.
 
-6. ref
+#
+# 6. ref
 - official : https://kubernetes.io/docs/home/
 - https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
-7. comment
+#
+# 7. comment
 다음부터는 유스케이스에 좀 더 구체적인 예시를 제시해달라고 피드백 함.
 한국어 레퍼런스는 제외해달라고 함. 대부분 링크가 죽었음. 직접 벨로그 같은데서 찾자.
