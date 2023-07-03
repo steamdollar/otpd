@@ -12,3 +12,38 @@ GPT4를 사용해, 이게 뭔지, 언제 쓰는지, 특징이 뭔지 등을 알�
 
 내가 ~~를 하고 있는데 이걸 여기 ~~식으로 적용하는게 가능한지도 물어보면 답 해주더라 얘가..
 
+사실 공부는 책으로 하는게 제일 좋긴 한데
+
+지금은 하나를 깊게 파기보다 여러 개를 얕게 파서 가시범위를 넓히는게 우선인 것 같음.
+
+개별 `thing`에 대해서는 필요할 때가서 파면 됨
+
+//
+
+# records
+
+## 2306
+230623
+    redis
+
+230626 
+    docker
+
+230627
+    message queue
+    microservice
+    serverless architecture
+    restful api
+
+230628
+    kafka
+
+230629
+    graphQL
+
+230630
+    Kubernetes
+
+## 2307
+230703
+    CI/CD
