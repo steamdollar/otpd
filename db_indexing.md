@@ -5,7 +5,7 @@
 # 1. Keywords
 - Database Performance
 - Search Optimization
-- B-tree
+- B-tree (balanced Tree)
 - Query Execution time
 - Index scan
 - Cardinality
@@ -13,6 +13,7 @@
 #
 # 2. Intro
 DB 인덱싱은 db 작업, 특히 data 검색의 성능을 향상 시키는 데 사용되는 기술이다.
+전공책에 찾기 쉽게 스티커 붙이는 그런 느낌..
 
 #
 # 3. Mechanism
@@ -52,4 +53,7 @@ order_date column이 index로서 있다면 확인해야 하는 정보가 매우 
 #
 # 6. ref
 - https://velog.io/@bsjp400/Database-DB-%EC%9D%B8%EB%8D%B1%EC%8B%B1Indexing%EC%9D%B4%EB%9E%80
-- 
+
+- B-Tree : https://rebro.kr/169?category=484170
+
+- https://velog.io/@emplam27/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-B-Tree
