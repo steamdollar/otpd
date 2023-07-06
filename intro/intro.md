@@ -61,3 +61,7 @@ GPT4를 사용해, 이게 뭔지, 언제 쓰는지, 특징이 뭔지 등을 알�
 230705
     db Indexing
     web sockets
+
+230706
+    load balancers
+    Nginx
