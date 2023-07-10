@@ -45,3 +45,4 @@ Ansible은 configuration 관리, appl 배포, 작업 자동화, IT ochestration�
 #
 # 5. ref
 - doc : https://docs.ansible.com/ansible/latest/index.html
+- https://velog.io/@honghwahyeong/Ansible-Ansible-%EC%9D%B4%EB%9E%80
