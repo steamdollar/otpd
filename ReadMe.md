@@ -78,3 +78,10 @@ GPT4를 사용해, 이게 뭔지, 언제 쓰는지, 특징이 뭔지 등을 알�
 230712
     TDD
     rate limiting
+
+230713
+    Service Mesh
+    Edge Computing
+    
+230714
+    cloud computing service
