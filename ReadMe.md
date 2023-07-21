@@ -23,8 +23,6 @@ GPT4를 사용해, 이게 뭔지, 언제 쓰는지, 특징이 뭔지 등을 알�
 
 개별 `thing`에 대해서는 필요할 때가서 파면 됨
 
-
-
 //
 
 # records
@@ -88,3 +86,10 @@ GPT4를 사용해, 이게 뭔지, 언제 쓰는지, 특징이 뭔지 등을 알�
 
 230718
     Machine LEearning Operations (MLOps)
+
+230719
+    RabbitMQ
+
+230720
+    S3
+    read-and-write consistency
