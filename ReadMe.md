@@ -93,3 +93,9 @@ GPT4를 사용해, 이게 뭔지, 언제 쓰는지, 특징이 뭔지 등을 알�
 230720
     S3
     read-and-write consistency
+
+230724
+    noSQL
+
+230725
+    CDN
