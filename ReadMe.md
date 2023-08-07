@@ -109,4 +109,7 @@ GPT4를 사용해, 이게 뭔지, 언제 쓰는지, 특징이 뭔지 등을 알�
 
 230731
     SSR
-    
+
+230804
+    relational_db
+    db_normalization
